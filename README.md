@@ -1,2 +1,1 @@
-# Kirovskiy
-RAG-System
+
